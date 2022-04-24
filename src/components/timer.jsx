@@ -14,7 +14,7 @@ export const Timer = () => {
         setMin(min + 1);
         setSecond(0);
       }
-    }, 10);
+    }, 1000);
     if (min === 59) {
       setHour(hour + 1);
       setMin(0);
