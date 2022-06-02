@@ -25,4 +25,4 @@ React
 ![774c008c-32b2-4b09-b2ab-6d031716f668](https://user-images.githubusercontent.com/96066976/171725996-1e19095e-e2ea-454f-9fb2-f49976bf436b.jpg)
 
 
-# Happy Coading !!✨
+# Happy Coding !!✨
